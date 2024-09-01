@@ -1,0 +1,6 @@
+framework module Pods_Seitansai2021Tests {
+  umbrella header "Pods-Seitansai2021Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
